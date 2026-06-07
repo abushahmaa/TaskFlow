@@ -17,6 +17,24 @@ TaskFlow is a comprehensive enterprise project and task management system built 
 - **Reporting** — Automated completion percentages and employee productivity metrics.
 - **Modern UI** — Laravel Breeze Blade frontend with Tailwind CSS v4, dark mode, and Shadcn-inspired components.
 
+## 📸 Screenshots
+
+<details>
+<summary>Click to view screenshots</summary>
+
+- **Login**
+  ![Login](doc/image/login.png)
+- **Admin Dashboard**
+  ![Admin Dashboard](doc/image/dashboard.png)
+- **Projects List**
+  ![Projects List](doc/image/projects.png)
+- **Create Project**
+  ![Create Project](doc/image/create-project.png)
+- **Tasks List**
+  ![Tasks List](doc/image/tasks.png)
+
+</details>
+
 ## 🛠️ Tech Stack
 
 - **Backend Framework**: Laravel 12.x
