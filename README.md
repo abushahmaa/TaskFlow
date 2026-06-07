@@ -19,9 +19,6 @@ TaskFlow is a comprehensive enterprise project and task management system built 
 
 ## 📸 Screenshots
 
-<details>
-<summary>Click to view screenshots</summary>
-
 - **Login**
   ![Login](docs/images/Sign-In-—-TaskFlow-06-07-2026_06_03_PM.png)
 - **Admin Dashboard**
@@ -35,7 +32,6 @@ TaskFlow is a comprehensive enterprise project and task management system built 
 - **Details View**
   ![Details View](docs/images/Laravel-—-TaskFlow-06-07-2026_06_04_PM%20(3).png)
 
-</details>
 
 ## 🛠️ Tech Stack
 
