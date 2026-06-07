@@ -28,7 +28,14 @@ TaskFlow is a comprehensive enterprise project and task management system built 
 
 ## 📦 Setup & Installation
 
-1. **Clone & Install Dependencies**
+1. **Clone the Repository**
+   ```bash
+   git clone https://github.com/abushahmaa/TaskFlow
+   cd TaskFlow
+   ```
+   *Requires PHP 8.2+ and Laravel 12*
+
+2. **Install Dependencies**
    ```bash
    composer install
    npm install
@@ -84,6 +91,20 @@ All seeded accounts share the password: `password`
 
 - [API Documentation](API_DOCS.md) — Comprehensive guide to all 50 REST API endpoints.
 - [Database & Folder Structure](laravel_rbac_folder_structure.md) — Details on the models, schema, and architectural layout.
+
+## ✨ Bonus Features Status
+
+As per the original project requirements, here is the implementation status of the requested bonus features:
+
+- ✅ **File Attachments Storage** (Implemented — employees can attach files to work logs)
+- ✅ **Dark Mode** (Implemented — responsive dark mode UI using Tailwind CSS)
+- ✅ **API Documentation** (Implemented — comprehensive API_DOCS.md provided)
+- ✅ **Dockerized Deployment** (Implemented — via Laravel Sail with MySQL/Redis)
+- ✅ **CI/CD Pipeline** (Implemented — automated testing workflow via GitHub Actions)
+- ❌ **Real-time notifications using WebSockets** (Not implemented)
+- ❌ **Kanban Board View with Drag & Drop** (Not implemented)
+- ❌ **Multi-Tenant Architecture** (Not implemented)
+- ❌ **Unit & Integration Tests** (Removed per user request)
 
 ## 🕰️ Scheduled Commands
 
