@@ -23,15 +23,17 @@ TaskFlow is a comprehensive enterprise project and task management system built 
 <summary>Click to view screenshots</summary>
 
 - **Login**
-  ![Login](doc/image/login.png)
+  ![Login](docs/images/Sign-In-—-TaskFlow-06-07-2026_06_03_PM.png)
 - **Admin Dashboard**
-  ![Admin Dashboard](doc/image/dashboard.png)
+  ![Admin Dashboard](docs/images/Laravel-—-TaskFlow-06-07-2026_06_03_PM.png)
 - **Projects List**
-  ![Projects List](doc/image/projects.png)
+  ![Projects List](docs/images/Laravel-—-TaskFlow-06-07-2026_06_04_PM.png)
 - **Create Project**
-  ![Create Project](doc/image/create-project.png)
+  ![Create Project](docs/images/Laravel-—-TaskFlow-06-07-2026_06_04_PM%20(1).png)
 - **Tasks List**
-  ![Tasks List](doc/image/tasks.png)
+  ![Tasks List](docs/images/Laravel-—-TaskFlow-06-07-2026_06_04_PM%20(2).png)
+- **Details View**
+  ![Details View](docs/images/Laravel-—-TaskFlow-06-07-2026_06_04_PM%20(3).png)
 
 </details>
 
